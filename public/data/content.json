@@ -1,0 +1,25 @@
+{
+  "en": {
+    "title": "For Sale",
+    "headerTitle": "For Sale",
+    "description": "Browse items available for purchase",
+    "descriptionLabel": "Description",
+    "conditionLabel": "Condition",
+    "termsTitle": "Terms & Conditions",
+    "termsText": "All payments are done through Swish after meeting in Stockholm and confirming the quality of the goods. If delivery is required, the buyer must pay any added cost. All sales are final with no returns.",
+    "backToCategory": "← Back to Category",
+    "backToCategories": "← Back to Categories"
+  },
+  "sv": {
+    "title": "Till salu",
+    "headerTitle": "Till salu",
+    "description": "Bläddra bland tillgängliga artiklar för köp",
+    "descriptionLabel": "Beskrivning",
+    "conditionLabel": "Skick",
+    "termsTitle": "Villkor",
+    "termsText": "Alla betalningar görs via Swish efter att ha träffats i Stockholm och bekräftat varornas kvalitet. Om leverans krävs måste köparen betala eventuella tillkommande kostnader. Alla försäljningar är slutgiltiga utan returer.",
+    "backToCategory": "← Tillbaka till kategori",
+    "backToCategories": "← Tillbaka till kategorier"
+  }
+}
+

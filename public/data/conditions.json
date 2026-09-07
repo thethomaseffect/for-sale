@@ -1,0 +1,51 @@
+{
+  "conditions": [
+    {
+      "id": 1,
+      "en": {
+        "name": "New"
+      },
+      "sv": {
+        "name": "Ny"
+      }
+    },
+    {
+      "id": 2,
+      "en": {
+        "name": "Like New"
+      },
+      "sv": {
+        "name": "Som ny"
+      }
+    },
+    {
+      "id": 3,
+      "en": {
+        "name": "Very Good"
+      },
+      "sv": {
+        "name": "Mycket bra"
+      }
+    },
+    {
+      "id": 4,
+      "en": {
+        "name": "Good"
+      },
+      "sv": {
+        "name": "Bra"
+      }
+    },
+    {
+      "id": 5,
+      "en": {
+        "name": "Acceptable"
+      },
+      "sv": {
+        "name": "Acceptabel"
+      }
+    }
+  ]
+}
+
+

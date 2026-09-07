@@ -1,0 +1,158 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "en": {
+        "name": "Video Games",
+        "description": "Video games"
+      },
+      "sv": {
+        "name": "Videospel",
+        "description": "Videospel"
+      },
+      "icon": "🎮",
+      "subcategories": [
+        {
+          "id": "ps4",
+          "en": {
+            "name": "Playstation 4",
+            "description": "Playstation 4 games"
+          },
+          "sv": {
+            "name": "Playstation 4",
+            "description": "Playstation 4-spel"
+          }
+        },
+        {
+          "id": "3ds",
+          "en": {
+            "name": "Nintendo 3DS",
+            "description": "Nintendo 3DS games"
+          },
+          "sv": {
+            "name": "Nintendo 3DS",
+            "description": "Nintendo 3DS-spel"
+          }
+        },
+        {
+          "id": "switch",
+          "en": {
+            "name": "Nintendo Switch",
+            "description": "Nintendo Switch games"
+          },
+          "sv": {
+            "name": "Nintendo Switch",
+            "description": "Nintendo Switch-spel"
+          }
+        },
+        {
+          "id": "vita",
+          "en": {
+            "name": "Playstation Vita",
+            "description": "Playstation Vita games"
+          },
+          "sv": {
+            "name": "Playstation Vita",
+            "description": "Playstation Vita-spel"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "en": {
+        "name": "Books",
+        "description": "Books and literature"
+      },
+      "sv": {
+        "name": "Böcker",
+        "description": "Böcker och litteratur"
+      },
+      "icon": "📚"
+    },
+    {
+      "id": 3,
+      "en": {
+        "name": "TTRPGs",
+        "description": "Tabletop role-playing games"
+      },
+      "sv": {
+        "name": "Rollspel",
+        "description": "Rollspel"
+      },
+      "icon": "🎲"
+    },
+    {
+      "id": 4,
+      "en": {
+        "name": "Comics and Graphic Novels",
+        "description": "Comics and graphic novels"
+      },
+      "sv": {
+        "name": "Serier och Grafiska Romaner",
+        "description": "Serier och grafiska romaner"
+      },
+      "icon": "📖"
+    },
+    {
+      "id": 5,
+      "en": {
+        "name": "Artbooks and Compendiums",
+        "description": "Art books and compendiums"
+      },
+      "sv": {
+        "name": "Konstböcker och Kompendier",
+        "description": "Konstböcker och kompendier"
+      },
+      "icon": "🎨"
+    },
+    {
+      "id": 6,
+      "en": {
+        "name": "Manga",
+        "description": "Manga"
+      },
+      "sv": {
+        "name": "Manga",
+        "description": "Manga"
+      },
+      "icon": "📘"
+    },
+    {
+      "id": 7,
+      "en": {
+        "name": "Electronics",
+        "description": "Electronics and gadgets"
+      },
+      "sv": {
+        "name": "Elektronik",
+        "description": "Elektronik och prylar"
+      },
+      "icon": "⚡"
+    },
+    {
+      "id": 8,
+      "en": {
+        "name": "Other",
+        "description": "Other items"
+      },
+      "sv": {
+        "name": "Övrigt",
+        "description": "Övriga artiklar"
+      },
+      "icon": "📦"
+    },
+    {
+      "id": 9,
+      "en": {
+        "name": "Board Games",
+        "description": "Board games"
+      },
+      "sv": {
+        "name": "Brädspel",
+        "description": "Brädspel"
+      },
+      "icon": "🎯"
+    }
+  ]
+}
